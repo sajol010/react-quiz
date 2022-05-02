@@ -1,0 +1,11 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "soruce.fixAll.eslint": true,
+    "soruce.fixAll.tslint": true,
+    "soruce.organizedImports": true
+  },
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false
+}
